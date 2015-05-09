@@ -4,3 +4,4 @@ test3
 test4
 file edited from github
 row added from console
+this row added for new local branch 4
